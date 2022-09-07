@@ -1,5 +1,8 @@
 ★Tsudzuri Yodaka★ Image Dataset for Machine Learning
+
 512x512 - image data set consisting of 18 single characters
+20 each for facial expression differences (80 images in total)
+single characters
 
 If you need more images, please use the separately distributed standing picture data.
 https://paopaoyumyum.booth.pm/items/4127762
@@ -13,7 +16,7 @@ site:http://sn1572-nighthawk.sakura.ne.jp
 
 
 綴よだか　機械学習用画像データセット
-512x512-18枚の単一キャラクターからなる画像データセットです
+512x512-18枚+表情差分各20枚（計80枚） の単一キャラクターからなる画像データセットです
 
 古いものから新しいものいろいろ混ざっています
 枚数不足の場合は、別途配布している立ち絵素材を加工してご利用ください↓
@@ -25,7 +28,11 @@ https://paopaoyumyum.booth.pm/items/4127762
 以下の利用規約が適用されます
 http://sn1572-nighthawk.sakura.ne.jp/tos.html
 
+
 Twitter:ぱおぱお（@paopaoyumyum）
 
 site:http://sn1572-nighthawk.sakura.ne.jp
+
+■更新履歴
+Ver.01.01 表情差分画像を追加
 
